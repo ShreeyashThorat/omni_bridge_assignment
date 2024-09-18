@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "587454946435",
+    "project_id": "pets-media-29963",
+    "storage_bucket": "pets-media-29963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587454946435:android:6e7cc556894997887ccfb6",
+        "android_client_info": {
+          "package_name": "com.pets.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNPlK5knW3VWtz0_HiTSsBkmfkBHJwlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
